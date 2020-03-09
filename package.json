@@ -1,0 +1,23 @@
+{
+  "name": "npm-lab-nyc-web-010620",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-xiao/npm-lab-nyc-web-010620.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-xiao/npm-lab-nyc-web-010620/issues"
+  },
+  "homepage": "https://github.com/adam-xiao/npm-lab-nyc-web-010620#readme",
+  "dependencies": {
+    "momen": "0.0.1-security",
+    "moment": "^2.24.0"
+  }
+}
